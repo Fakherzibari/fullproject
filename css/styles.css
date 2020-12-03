@@ -161,3 +161,6 @@ p {
   margin: 50px 10px;
   color: black;
 }
+.footer-icon:hover {
+  color: #ff4c88;
+}
